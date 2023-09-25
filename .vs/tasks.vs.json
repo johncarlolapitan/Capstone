@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-supplier",
+      "appliesTo": "application/views/supplier/",
+      "type": "launch"
+    }
+  ]
+}
